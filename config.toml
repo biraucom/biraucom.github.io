@@ -1,0 +1,4 @@
+baseURL = "http://birau.com/"
+languageCode = "en-us"
+title = "Birau Online"
+theme = "ananke"
