@@ -3,21 +3,98 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://birau.com/posts/ahlansahlan/</loc>
-    <lastmod>2019-09-02T08:17:02+07:00</lastmod>
+    <loc>http://birau.com/</loc>
+    <lastmod>2019-09-02T08:17:58+07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://birau.com/</loc>
-    <lastmod>2019-09-02T08:17:02+07:00</lastmod>
+    <loc>http://birau.com/posts/birau13/</loc>
+    <lastmod>2019-09-02T08:17:58+07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>http://birau.com/posts/</loc>
+    <lastmod>2019-09-02T08:17:58+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://birau.com/posts/birau12/</loc>
+    <lastmod>2019-09-02T08:17:56+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://birau.com/posts/birau11/</loc>
+    <lastmod>2019-09-02T08:17:54+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://birau.com/posts/sepuluh/</loc>
+    <lastmod>2019-09-02T08:17:48+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://birau.com/posts/sembilan/</loc>
+    <lastmod>2019-09-02T08:17:42+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://birau.com/posts/delapan/</loc>
+    <lastmod>2019-09-02T08:17:36+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://birau.com/posts/tujuh/</loc>
+    <lastmod>2019-09-02T08:17:33+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://birau.com/posts/enam/</loc>
+    <lastmod>2019-09-02T08:17:29+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://birau.com/posts/lima/</loc>
+    <lastmod>2019-09-02T08:17:25+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://birau.com/posts/empat/</loc>
+    <lastmod>2019-09-02T08:17:21+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://birau.com/posts/tiga/</loc>
+    <lastmod>2019-09-02T08:17:16+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://birau.com/posts/ahlansahlan/</loc>
     <lastmod>2019-09-02T08:17:02+07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
