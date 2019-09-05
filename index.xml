@@ -2,140 +2,149 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Birau Online</title>
-    <link>http://birau.com/</link>
+    <link>https://birau.com/</link>
     <description>Recent content on Birau Online</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 02 Sep 2019 08:17:58 +0700</lastBuildDate>
     
-	<atom:link href="http://birau.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://birau.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Birau13</title>
-      <link>http://birau.com/posts/birau13/</link>
+      <link>https://birau.com/posts/birau13/</link>
       <pubDate>Mon, 02 Sep 2019 08:17:58 +0700</pubDate>
       
-      <guid>http://birau.com/posts/birau13/</guid>
+      <guid>https://birau.com/posts/birau13/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Birau12</title>
-      <link>http://birau.com/posts/birau12/</link>
+      <link>https://birau.com/posts/birau12/</link>
       <pubDate>Mon, 02 Sep 2019 08:17:56 +0700</pubDate>
       
-      <guid>http://birau.com/posts/birau12/</guid>
+      <guid>https://birau.com/posts/birau12/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Birau11</title>
-      <link>http://birau.com/posts/birau11/</link>
+      <link>https://birau.com/posts/birau11/</link>
       <pubDate>Mon, 02 Sep 2019 08:17:54 +0700</pubDate>
       
-      <guid>http://birau.com/posts/birau11/</guid>
+      <guid>https://birau.com/posts/birau11/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sepuluh</title>
-      <link>http://birau.com/posts/sepuluh/</link>
+      <link>https://birau.com/posts/sepuluh/</link>
       <pubDate>Mon, 02 Sep 2019 08:17:48 +0700</pubDate>
       
-      <guid>http://birau.com/posts/sepuluh/</guid>
+      <guid>https://birau.com/posts/sepuluh/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sembilan</title>
-      <link>http://birau.com/posts/sembilan/</link>
+      <link>https://birau.com/posts/sembilan/</link>
       <pubDate>Mon, 02 Sep 2019 08:17:42 +0700</pubDate>
       
-      <guid>http://birau.com/posts/sembilan/</guid>
+      <guid>https://birau.com/posts/sembilan/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Delapan</title>
-      <link>http://birau.com/posts/delapan/</link>
+      <link>https://birau.com/posts/delapan/</link>
       <pubDate>Mon, 02 Sep 2019 08:17:36 +0700</pubDate>
       
-      <guid>http://birau.com/posts/delapan/</guid>
+      <guid>https://birau.com/posts/delapan/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tujuh</title>
-      <link>http://birau.com/posts/tujuh/</link>
+      <link>https://birau.com/posts/tujuh/</link>
       <pubDate>Mon, 02 Sep 2019 08:17:33 +0700</pubDate>
       
-      <guid>http://birau.com/posts/tujuh/</guid>
+      <guid>https://birau.com/posts/tujuh/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Enam</title>
-      <link>http://birau.com/posts/enam/</link>
+      <link>https://birau.com/posts/enam/</link>
       <pubDate>Mon, 02 Sep 2019 08:17:29 +0700</pubDate>
       
-      <guid>http://birau.com/posts/enam/</guid>
+      <guid>https://birau.com/posts/enam/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Lima</title>
-      <link>http://birau.com/posts/lima/</link>
+      <link>https://birau.com/posts/lima/</link>
       <pubDate>Mon, 02 Sep 2019 08:17:25 +0700</pubDate>
       
-      <guid>http://birau.com/posts/lima/</guid>
+      <guid>https://birau.com/posts/lima/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Empat</title>
-      <link>http://birau.com/posts/empat/</link>
+      <link>https://birau.com/posts/empat/</link>
       <pubDate>Mon, 02 Sep 2019 08:17:21 +0700</pubDate>
       
-      <guid>http://birau.com/posts/empat/</guid>
+      <guid>https://birau.com/posts/empat/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tiga</title>
-      <link>http://birau.com/posts/tiga/</link>
+      <link>https://birau.com/posts/tiga/</link>
       <pubDate>Mon, 02 Sep 2019 08:17:16 +0700</pubDate>
       
-      <guid>http://birau.com/posts/tiga/</guid>
+      <guid>https://birau.com/posts/tiga/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ahlansahlan</title>
-      <link>http://birau.com/posts/ahlansahlan/</link>
+      <link>https://birau.com/posts/ahlansahlan/</link>
       <pubDate>Mon, 02 Sep 2019 08:17:02 +0700</pubDate>
       
-      <guid>http://birau.com/posts/ahlansahlan/</guid>
+      <guid>https://birau.com/posts/ahlansahlan/</guid>
       <description>Ahlan wa sahlan bi khuduurikum :)</description>
     </item>
     
     <item>
       <title>Welcome</title>
-      <link>http://birau.com/posts/welcome/</link>
+      <link>https://birau.com/posts/welcome/</link>
       <pubDate>Sun, 01 Sep 2019 14:12:09 +0700</pubDate>
       
-      <guid>http://birau.com/posts/welcome/</guid>
+      <guid>https://birau.com/posts/welcome/</guid>
       <description>Welcome wilkomen ahlan wa sahlan</description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>http://birau.com/contact/</link>
+      <link>https://birau.com/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://birau.com/contact/</guid>
+      <guid>https://birau.com/contact/</guid>
       <description>This is an example of a custom shortcode that you can put right into your content. You will need to add a form action to the the shortcode to make it work. Check out Formspree for a simple, free form service.
 Your Name Email Address An email address is required.  Message   </description>
+    </item>
+    
+    <item>
+      <title>test</title>
+      <link>https://birau.com/posts/test/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://birau.com/posts/test/</guid>
+      <description>test euy</description>
     </item>
     
   </channel>
